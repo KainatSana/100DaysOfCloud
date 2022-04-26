@@ -10,20 +10,17 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Sana Kainat's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi,I am a final year student doing bachelors in Computer science from UCP lahore,Pakistan.I am Microsoft Student Ambassador and aiming to empower myself and females in Tech.
 
-[✍️ Tell us why you started this challenge]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I started this Challenge to be consistent in completing Cloud Security Architect track and to enter in professional world.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+I want to join Microsoft at the end of this Challenge.
+- [Follow me on Twitter](https://twitter.com/SanaUniverse20)
+- [Follow me on LinkedIn](https://www.linkedin.com/in/sana-kainat/)
 
 ## Stepping out the door
 
